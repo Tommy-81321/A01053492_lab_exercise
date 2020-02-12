@@ -93,4 +93,4 @@ function addMovie() {
 }
 
 
-document.write("practice git and github and make sure JS is work")
+document.write("github edit: practice git and github and make sure JS is work")
