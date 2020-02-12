@@ -91,3 +91,6 @@ function addMovie() {
     // **3 Add to myMovies Object: watched zero times
     updateMovieHistory(userTypedText);
 }
+
+
+document.write("practice git and github and make sure JS is work")
